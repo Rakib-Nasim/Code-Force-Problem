@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bull_or_Bear", "Bull_or_Bear\Bull_or_Bear.csproj", "{396A4D0C-1A8C-426C-8706-D153464D6EAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bull_or_Bear", "Bull_or_Bear\Bull_or_Bear.csproj", "{396A4D0C-1A8C-426C-8706-D153464D6EAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chairs_Requirement", "Chairs_Requirement\Chairs_Requirement.csproj", "{C0E65AE2-FC61-4BE5-8C70-886EC3801385}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chairs_Requirement", "Chairs_Requirement\Chairs_Requirement.csproj", "{C0E65AE2-FC61-4BE5-8C70-886EC3801385}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_of_Credits", "Number_of_Credits\Number_of_Credits.csproj", "{7DC51D38-FDCB-4105-AEFF-BEA6AC599C58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number_of_Credits", "Number_of_Credits\Number_of_Credits.csproj", "{7DC51D38-FDCB-4105-AEFF-BEA6AC599C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rain_in_Chefland", "Rain_in_Chefland\Rain_in_Chefland.csproj", "{B3928233-49FE-4077-AD53-F0343FB846B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{7DC51D38-FDCB-4105-AEFF-BEA6AC599C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DC51D38-FDCB-4105-AEFF-BEA6AC599C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DC51D38-FDCB-4105-AEFF-BEA6AC599C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3928233-49FE-4077-AD53-F0343FB846B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3928233-49FE-4077-AD53-F0343FB846B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3928233-49FE-4077-AD53-F0343FB846B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3928233-49FE-4077-AD53-F0343FB846B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
