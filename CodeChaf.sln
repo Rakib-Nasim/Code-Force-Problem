@@ -11,7 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number_of_Credits", "Number
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rain_in_Chefland", "Rain_in_Chefland\Rain_in_Chefland.csproj", "{B3928233-49FE-4077-AD53-F0343FB846B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeLink", "PracticeLink\PracticeLink.csproj", "{E67109D0-9901-4098-8D53-4867812852C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeLink", "PracticeLink\PracticeLink.csproj", "{E67109D0-9901-4098-8D53-4867812852C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstagramPblm", "InstagramPblm\InstagramPblm.csproj", "{01632BE4-0FA4-41D8-B34C-D6C1E2452F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRootPblm", "SquareRootPblm\SquareRootPblm.csproj", "{9FB27996-3E99-4163-8486-291D3342FDDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candy Distribution", "Candy Distribution\Candy Distribution.csproj", "{23523D96-EA50-40AC-920E-F8842FE2F03B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Score_High", "Score_High\Score_High.csproj", "{D5B2B7FD-ABEB-439E-8232-A2F5E41E3CF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{E67109D0-9901-4098-8D53-4867812852C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E67109D0-9901-4098-8D53-4867812852C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E67109D0-9901-4098-8D53-4867812852C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01632BE4-0FA4-41D8-B34C-D6C1E2452F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01632BE4-0FA4-41D8-B34C-D6C1E2452F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01632BE4-0FA4-41D8-B34C-D6C1E2452F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01632BE4-0FA4-41D8-B34C-D6C1E2452F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB27996-3E99-4163-8486-291D3342FDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB27996-3E99-4163-8486-291D3342FDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB27996-3E99-4163-8486-291D3342FDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB27996-3E99-4163-8486-291D3342FDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23523D96-EA50-40AC-920E-F8842FE2F03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23523D96-EA50-40AC-920E-F8842FE2F03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23523D96-EA50-40AC-920E-F8842FE2F03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23523D96-EA50-40AC-920E-F8842FE2F03B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B2B7FD-ABEB-439E-8232-A2F5E41E3CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B2B7FD-ABEB-439E-8232-A2F5E41E3CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B2B7FD-ABEB-439E-8232-A2F5E41E3CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B2B7FD-ABEB-439E-8232-A2F5E41E3CF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
