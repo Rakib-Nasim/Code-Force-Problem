@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chairs_Requirement", "Chair
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number_of_Credits", "Number_of_Credits\Number_of_Credits.csproj", "{7DC51D38-FDCB-4105-AEFF-BEA6AC599C58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rain_in_Chefland", "Rain_in_Chefland\Rain_in_Chefland.csproj", "{B3928233-49FE-4077-AD53-F0343FB846B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rain_in_Chefland", "Rain_in_Chefland\Rain_in_Chefland.csproj", "{B3928233-49FE-4077-AD53-F0343FB846B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeLink", "PracticeLink\PracticeLink.csproj", "{E67109D0-9901-4098-8D53-4867812852C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B3928233-49FE-4077-AD53-F0343FB846B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3928233-49FE-4077-AD53-F0343FB846B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3928233-49FE-4077-AD53-F0343FB846B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67109D0-9901-4098-8D53-4867812852C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67109D0-9901-4098-8D53-4867812852C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67109D0-9901-4098-8D53-4867812852C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67109D0-9901-4098-8D53-4867812852C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
